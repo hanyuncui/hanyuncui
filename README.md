@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hanyun
 
-<!--
-**hanyuncui/hanyuncui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Student @ University of Michigan  
+📚 Major: Data Science  
+🌟 Interests: AI · Web Dev · Distributed Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+- 🧠 Passionate about using data and code to solve real-world problems  
+- 🌱 Always learning — currently exploring machine learning + full-stack projects  
+
+---
+
+### 📬 Reach Me
+
+- ✉️ Email: hanyunc@umich.edu
+- 💼 LinkedIn: www.linkedin.com/in/hanyun-cui04
+
+
+
