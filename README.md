@@ -8,8 +8,8 @@
 
 ### 💻 About Me
 
-- 🧠 Passionate about using data and code to solve real-world problems  
-- 🌱 Always learning — currently exploring machine learning + full-stack projects  
+- Passionate about using data and code to solve real-world problems  
+- Always learning — currently exploring machine learning + full-stack projects  
 
 ---
 
