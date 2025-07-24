@@ -15,8 +15,8 @@
 
 ### 📬 Reach Me
 
-- ✉️ Email: hanyunc@umich.edu
-- 💼 LinkedIn: www.linkedin.com/in/hanyun-cui04
+- Email: hanyunc@umich.edu
+- LinkedIn: www.linkedin.com/in/hanyun-cui04
 
 
 
